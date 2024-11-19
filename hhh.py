@@ -17,3 +17,5 @@ def  myage():
     print(total)
 
 myage()
+
+print('moon')
