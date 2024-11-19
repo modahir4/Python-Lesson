@@ -18,4 +18,3 @@ def  myage():
 
 myage()
 
-print('hello')
