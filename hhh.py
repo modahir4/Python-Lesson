@@ -19,13 +19,3 @@ def  myage():
 myage()
 
 print('Hi mom')
-print()print('Hi mom')
-print()print('Hi mom')
-print()print('Hi mom')
-print()print('Hi mom')
-print()print('Hi mom')
-print()print('Hi mom')
-print()print('Hi mom')
-print()print('Hi mom')
-print()print('Hi mom')
-print()
